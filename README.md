@@ -40,7 +40,8 @@ Balance_Robot/
 │       ├── motor.cpp
 │       ├── motor.h
 │       ├── mpu6050.cpp
-│       └── mpu6050.h
+|       ├── mpu6050.h
+│       └── Pinout.h
 ├── src/
 │   └── main.cpp              # Vòng lặp điều khiển chính (Control Loop)
 └── platformio.ini            # Cấu hình môi trường build
