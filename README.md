@@ -7,7 +7,7 @@
 ## 📝 Giới thiệu Dự án
 Dự án phát triển xe tự cân bằng 2 bánh sử dụng vi điều khiển ESP32. Khác với các project sử dụng thư viện có sẵn (high-level), project này tập trung vào việc tự xây dựng các module driver mức thanh ghi (bare-metal style) để tối ưu hóa hiệu suất và vòng lặp thuật toán PID.
 
-**Tác giả:** Nguyễn Ngọc Chiến (NgocChien Trùm VT01) - B23DCVT061
+**Tác giả:** Nguyễn Ngọc Chiến - B23DCVT061
 **Đơn vị:** Học viện Công nghệ Bưu chính Viễn thông (PTIT)
 
 ## ✨ Tính năng chính (Features)
