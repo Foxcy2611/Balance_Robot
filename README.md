@@ -1,5 +1,5 @@
 # 🤖 ESP32 Self-Balancing Robot (Xe Cân Bằng 2 Bánh)
-# Comming Soon
+# Comming Soon - Loading 60%
 
 ![Project Status](https://img.shields.io/badge/Status-In_Progress-orange)
 ![Platform](https://img.shields.io/badge/Platform-ESP32-blue)
